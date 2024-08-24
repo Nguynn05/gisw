@@ -1,0 +1,18 @@
+﻿//File made by @yuri92 on Discord, do not steal without permission!
+
+//SWORDS
+item.netherite_sword.name=§4§lW§co§7l§ff's Gravestone
+item.diamond_sword.name=§b§lA§7q§filla Favonia
+item.golden_sword.name=§6§lS§gu§emmit§f Shaper
+item.iron_sword.name=§5§lM§dis§7t§fsplitter Reforged
+item.stone_sword.name=§6§lV§eor§7t§fex Vanquisher
+item.wooden_sword.name=§l§bSky§3ward §7B§flade
+//TRIDENT
+item.trident.name=§cStaff of Homa§r
+
+//BOW
+item.bow.name=§9Aqua §7Simularca§r
+
+//PROJECTILE
+entity.fireball.name=§7Meteror§r
+
