@@ -1,0 +1,54 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:totem_of_undying",
+      "materials": {
+        "default": "entity_alphatest",
+        "enchanted": "entity_alphatest_glint"
+      },
+      "textures": {
+        "item_frame_1": "textures/item/item1",
+        "item_frame_2": "textures/item/item2",
+        "item_frame_3": "textures/item/item3",
+        "item_frame_4": "textures/item/item4",
+        "item_frame_5": "textures/item/item5",
+        "item_frame_6": "textures/item/item6",
+        "item_frame_7": "textures/item/item7",
+        "item_frame_8": "textures/item/item8",
+        "item_frame_9": "textures/item/item9",
+        "item_frame_10": "textures/item/item10",
+        "item_frame_11": "textures/item/item11",
+        "item_frame_12": "textures/item/item12",
+        "item_frame_13": "textures/item/item13",
+        "item_frame_14": "textures/item/item14",
+        "item_frame_15": "textures/item/item15",
+        "item_frame_16": "textures/item/item16",
+        "item_frame_17": "textures/item/item17",
+        "item_frame_18": "textures/item/item18",
+        "item_frame_19": "textures/item/item19",
+        "item_frame_20": "textures/item/item20",
+        "item_frame_21": "textures/item/item21",
+        "item_frame_22": "textures/item/item22",
+        "item_frame_23": "textures/item/item23",
+        "item_frame_24": "textures/item/item24",
+        "item_frame_25": "textures/item/item25",
+        "item_frame_26": "textures/item/item26",
+        "item_frame_27": "textures/item/item27",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.vm"
+      },
+      "animations": {
+        "wield": "animation.leftblock.first_person_wield"
+      },
+      "scripts": {
+        "animate": [
+          "wield"
+        ]
+      },
+      "render_controllers": [ "controller.render.item_animation_totem" ]
+    }
+  }
+}

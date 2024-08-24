@@ -1,0 +1,36 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.item.1": {
+			"loop": true,
+			"bones": {
+				"rightArm": {
+					"rotation": ["80", "55", "10"],
+					"position": ["8", "0", "30"],
+					"scale": 5
+				}
+			}
+		},
+		"animation.item.3": {
+			"loop": true,
+			"bones": {
+				"rightArm": {
+					"rotation": ["90", "85", "10"],
+					"position": ["-20", "0", "20"],
+					"scale": 5
+				}
+			}
+		},
+		"animation.item.2": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"rightArm": {
+					"rotation": [80, 70, 10],
+					"position": [8, 0, 50],
+					"scale": 5
+				}
+			}
+		}
+	}
+}

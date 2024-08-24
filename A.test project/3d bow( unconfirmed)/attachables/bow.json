@@ -1,0 +1,22 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "minecraft:bow",
+      "materials": {
+        "default": "entity_emissive",
+        "enchanted": "entity_glint"
+      },
+      "textures": {
+        "default": "textures/items/thunder",
+        "bow_pulling_0": "textures/items/thunder",
+        "bow_pulling_1": "textures/items/thunder",
+        "bow_pulling_2": "textures/items/thunder",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.bow",
+        "bow_pulling_0": "geometry.bow_p0",
+        "bow_pulling_1": "geometry.bow_p1",
+        "bow_pulling_2": "geometry.bow_p2"
+      }

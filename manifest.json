@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Genshin Weaps",
+    "description": "Made by @yuri92",
+    "uuid": "32d8ee83-276e-cf71-8cce-f2ac68c432f8",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "95efb1c4-0bfa-c714-a645-bc4f9a0c993a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "@yuri92"
+    ],
+    "url": "https://github.com/Nguynn05/gisw"
+  }
+}
