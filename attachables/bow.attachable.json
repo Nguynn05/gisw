@@ -9,10 +9,10 @@
 				"enchanted": "entity_glint"
 			},
 			"textures": {
-				"default": "textures/entity/attachable/aqua",
-                                "bow_pulling_0": "textures/entity/gi/aqua",
-                                "bow_pulling_1": "textures/entity/gi/aqua",
-                                "bow_pulling_2": "textures/entity/gi/aqua",
+				"default": "textures/gi/aqua",
+                                "bow_pulling_0": "textures/gi/aqua",
+                                "bow_pulling_1": "textures/gi/aqua",
+                                "bow_pulling_2": "textures/gi/aqua",
 				"enchanted": "textures/misc/enchanted_item_glint"
 			},
 			"geometry": {
